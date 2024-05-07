@@ -1,0 +1,6 @@
+﻿  level.cpp
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 597 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  SFML PJC2.vcxproj -> E:\Program Files (x86)\Studia\2_Rok\Studia\Projekt_C2\SFML PJC2\x64\Release\SFML PJC2.exe

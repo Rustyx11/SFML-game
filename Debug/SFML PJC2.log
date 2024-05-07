@@ -1,0 +1,6 @@
+﻿  SFML PJC2.cpp
+C:\Users\kubas\source\repos\SFML PJC2\SFML PJC2.cpp(39,2): error C2065: "Animation": niezadeklarowany identyfikator
+C:\Users\kubas\source\repos\SFML PJC2\SFML PJC2.cpp(39,12): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „animation”
+C:\Users\kubas\source\repos\SFML PJC2\SFML PJC2.cpp(39,12): error C3861: "animation": identyfikatora nie odnaleziono
+C:\Users\kubas\source\repos\SFML PJC2\SFML PJC2.cpp(220,3): error C2065: "animation": niezadeklarowany identyfikator
+C:\Users\kubas\source\repos\SFML PJC2\SFML PJC2.cpp(221,25): error C2065: "animation": niezadeklarowany identyfikator

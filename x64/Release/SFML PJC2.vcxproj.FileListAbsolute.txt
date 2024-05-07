@@ -1,0 +1,2 @@
+C:\Users\kubas\source\repos\SFML PJC2\x64\Release\SFML PJC2.exe
+E:\Program Files (x86)\Studia\2_Rok\Studia\Projekt_C2\SFML PJC2\x64\Release\SFML PJC2.exe
